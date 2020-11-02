@@ -24,5 +24,5 @@ Here are some ideas to get you started:
 [<img align="left" alt="Judith's | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 <br />
 <br />
-[website]: https://github.com/judithpillado
-[linkedin]: https://www.linkedin.com/in/judith-pillado/
+[website]:(https://github.com/judithpillado)
+[linkedin]:(https://www.linkedin.com/in/judith-pillado/)
