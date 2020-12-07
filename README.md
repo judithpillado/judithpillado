@@ -1,32 +1,21 @@
-### Hi there 👋
+## Welcome to my GitHub! 🤗
 
-<!--
-**judithpillado/judithpillado** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🌆 Chicago native
+- 📚 Back-ender at the [Turing School of Software & Design](https://turing.io/) with a background in healthcare  
+- 👩🏽‍💻 I'm currently learning `java` and interested in `AWS` 
+- 📄 View my resumé [here](https://drive.google.com/file/d/18KYYXisy9JOZt3OG27j-LbpGSPbN6HTf/view?usp=sharing) 
+- 👀 Find me on [LinkedIn](https://www.linkedin.com/in/judith-pillado/) 
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-### Main Tools and languages I use: 
-<img align="left" alt="ruby photo" width="22px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ruby/ruby.png" /><img align="left" alt="html photo" height="35px" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" /><img align="left" alt="css photo" height="35px" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" /><img align="left" height="35px" width="30px" alt="slack" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/slack.svg" />
-
-<br />
-
-### Connect with me:
-[<img align="left" alt="Judith's website" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="Judith's | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-
-<br />
-
-<br />
-
-[website]: https://github.com/judithpillado
-[linkedin]: https://www.linkedin.com/in/judith-pillado/
+<!-- <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=judithpillado&show_icons=true&theme=synthwave"</p> -->
+  
+ <p align="center">
+  <img src="https://img.shields.io/badge/ruby%20-critical.svg?&style=for-the-badge&logo=ruby&logoColor=white" />
+  <img src="https://img.shields.io/badge/rails%20-yellowgreen.svg?&style=for-the-badge&logo=rails&logoColor=white" />
+  <img src="https://img.shields.io/badge/html5%20-%23593d88.svg?&style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/css%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/javascript%20-%2343853D.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
+  <img src="https://img.shields.io/badge/node.js%20-blue.svg?&style=for-the-badge&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/express.js%20-%23404d59.svg?&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/graphql%20-blueviolet.svg?&style=for-the-badge&logo=graphql&logoColor=white" />
+  <img src="https://img.shields.io/badge/java%20-yellow.svg?&style=for-the-badge&logo=java&logoColor=white" />
+</p>
