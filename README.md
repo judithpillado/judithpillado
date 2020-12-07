@@ -6,7 +6,7 @@
 - 📄 View my resumé [here](https://drive.google.com/file/d/18KYYXisy9JOZt3OG27j-LbpGSPbN6HTf/view?usp=sharing) 
 - 👀 Find me on [LinkedIn](https://www.linkedin.com/in/judith-pillado/) 
 
-<!-- <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=judithpillado&show_icons=true&theme=synthwave"</p> -->
+<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=judithpillado&show_icons=true&theme=synthwave"</p> 
   
  <p align="center">
   <img src="https://img.shields.io/badge/ruby%20-critical.svg?&style=for-the-badge&logo=ruby&logoColor=white" />
