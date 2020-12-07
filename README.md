@@ -2,7 +2,7 @@
 
 - 🌆 Chicago native
 - 📚 Back-ender at the [Turing School of Software & Design](https://turing.io/) with a background in healthcare  
-- 👩🏽‍💻 I'm currently learning `Java` `GraphQL` `Express.js` and I'm interested in `AWS` 
+- 👩🏽‍💻 Currently learning `Java` `GraphQL` `Express.js` and I'm interested in `AWS` 
 - 📄 View my resumé [here](https://drive.google.com/file/d/18KYYXisy9JOZt3OG27j-LbpGSPbN6HTf/view?usp=sharing) 
 - 👀 Find me on [LinkedIn](https://www.linkedin.com/in/judith-pillado/) 
 
