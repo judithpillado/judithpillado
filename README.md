@@ -4,7 +4,7 @@
 - 📚 Back-ender at the [Turing School of Software & Design](https://turing.io/) with a background in healthcare  
 - 👩🏽‍💻 Currently learning `Java` `GraphQL` `Express.js` and interested in `AWS` 
 - 📄 View my resumé [here](https://drive.google.com/file/d/1ok2sPTy2JGyhMOas3hnW8aGp6_VZNx5b/view) 
-- 👀 Find me on [LinkedIn](https://www.linkedin.com/in/judith-pillado/) 
+- 👀 Connect with me on [LinkedIn](https://www.linkedin.com/in/judith-pillado/) 
 
 <!-- <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=judithpillado&show_icons=true&theme=synthwave"</p> -->
   
